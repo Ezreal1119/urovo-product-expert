@@ -1,0 +1,93 @@
+# DT610 — Lightweight RFID Mobile Computer
+
+## Overview
+
+The DT610 is a lightweight (222 g, under 13 mm thin) rugged RFID smartphone built for all-day enterprise performance. Powered by the Qualcomm Q-6690 platform with integrated UHF RFID, it delivers AI-enhanced computing, 5G + Wi-Fi 7 connectivity, and Bluetooth 6.0 — all in a slim ergonomic design.
+
+**AnTuTu score: 1,114,080**
+
+## Product Highlights
+
+**Lightweight & Ergonomic** — 222 g, under 13 mm thin. Optimized for natural one-handed operation with reduced hand fatigue.
+
+**Integrated UHF RFID** — Impinj Gen2X reads 50+ tags/sec at up to 1.5 m. Ideal for warehouse management, retail stocktaking, and asset tracking.
+
+**Redefined Performance** — Octa-core up to 2.9 GHz, 6 INT8 TOPS AI, Android 15 (upgradable to Android 19).
+
+**Next-Gen Wireless** — 5G + Wi-Fi 7 (2×2 MU-MIMO, up to 5765 Mbps), 4× lower latency, 5× greater capacity vs Wi-Fi 6. Bluetooth 6.0.
+
+**Brilliant FHD+ Display** — 6-inch 1080×2160, 600 nits, sunlight-readable, Corning Gorilla Glass.
+
+**On-Screen NFC** — Tap-to-pay and data exchange directly through the display. EMVCo PCD L1 compliant.
+
+**FlexRange Scanning** — 5 cm to 10 m working range. Safer, more efficient barcode reading without bending or stretching.
+
+**AI Smart Battery** — 4000 mAh (4950 mAh optional), AI-driven charging, hot-swap support for continuous operation.
+
+**High-Performance Camera** — 16 MP rear with PDAF, 8 MP front. ARCore certified.
+
+**Biometric Security** — Fingerprint sensor integrated into the power button for instant secure authentication.
+
+## Specifications
+
+| Parameter | Specification |
+| --- | --- |
+| CPU | Qualcomm Q-6690 Octa-core 2.0/2.9 GHz, 6 INT8 TOPS |
+| OS | Android 15.0 (upgradable to Android 19) |
+| Memory | 8 GB + 128 GB UFS (12 GB + 256 GB optional) |
+| Expansion | MicroSD up to 2 TB |
+| Dimensions | 165 × 76.2 × 12.9 mm |
+| Weight | 222 g |
+| Display | 6.0" 1080×2160 LCD, 600 nits, Corning Gorilla Glass |
+| Touch | Multi-mode capacitive, glove/stylus, water droplet rejection, anti-smudge |
+| Battery | 4000 mAh / 15.4 Wh (4950 mAh optional), user-replaceable, Smart BMS, hot-swap, QC optional |
+| SIM | Hybrid Dual SIM (2 Nano or 1 Nano + 1 Micro SD), eSIM, Dual Standby |
+| Interface | Rear: 8-pin I/O; Bottom: USB-C 3.1 (OTG, DP), 2-pin Charging, 2-pin I/O |
+| Audio | Dual noise-canceling mics, speaker, PTT USB-C, BT headset, SWB & FB, HD Voice |
+| Keypad | On-screen + Enterprise Keyboard; PWR, Vol, Dual Scan, PTT (programmable) |
+| Camera | Rear: 16 MP PDAF, Flash LED, Torch; Front: 8 MP FF; ARCore Certified |
+| Scanner | Standard Range 1D/2D (FlexRange 5 cm–10 m optional) |
+| UHF RFID | Impinj Gen2X, up to 1.5 m, 50+ tags/sec |
+| NFC | ISO 14443 A/B, FeliCa, ISO 15693, MIFARE, Card Emulation, Contactless Payment, EMVCo PCD L1 |
+| Biometrics | Fingerprint in power button |
+| Sensors | Light, Accelerator, Proximity, Geomagnetic, Gyro |
+| GPS | GPS, A-GPS, GLONASS, Galileo, BEIDOU, QZSS; L1+L5 dual-band; XTRA |
+| Wi-Fi | Wi-Fi 7 (802.11be), 2×2 MU-MIMO, up to 5765 Mbps (6 GHz), DBS, IPv4/IPv6 |
+| Wi-Fi Security | WEP, WPA/WPA2/WPA3 Personal & Enterprise, WPA3 192-bit, OWE, WPA3-FT, SCV |
+| Bluetooth | BT 6.0 Configurable Class 1 & 2, BR/EDR + BLE |
+| Cellular | 5G NR Sub-6 (NSA+SA), Gigabit LTE-A, VoLTE, Carrier Aggregation |
+| Cellular (World) | 2G: 850/900/1800/1900; 3G: B1/2/4/5/8; 4G: B1–5/7/8/13/17–20/26/28/34/38–43; 5G: n1/2/3/5/7/8/20/28/38/40/41/77/78/79 |
+| Cellular (NA) | 3G: B2/4/5; 4G: B2/4/5/7/12–14/17/25/26/29/30/38/41/43/48/66/71; 5G: n2/5/7/12–14/25/26/29/30/38/41/48/66/71/77/78 |
+| Operating Temp | -20°C to 60°C |
+| Storage Temp | -40°C to 70°C |
+| Humidity | 5%–95% non-condensing |
+| Drop | 1.5 m (1.8 m with rugged boot) to tile over concrete, MIL-STD-810H |
+| Tumble | 500 × 0.5 m (1000 × 0.5 m with boot) at room temperature |
+| Sealing | IP67 |
+| ESD | ±15 kV Air; ±8 kV Direct; ±8 kV Indirect |
+| Vibration | 12.2 g PK Sine (10–55 Hz), 2.0 mm DA, 60 min/axis, 3 axes |
+| Thermal Shock | -40°C to 70°C, 12 cycles, 2-hour recovery |
+
+## Software
+
+**Enterprise:** UMS, UStage, OEMConfig, UTalk 2.0, OTA/Updates, App Market
+**Productivity:** ScanWedge, RFIDWedge, OCRWedge, Key Mapping, U-Browser, Enterprise Launcher
+**Diagnostics:** Log Capture, WiFi Diagnostics, Smart Battery Management
+**AI Tools:** OCR, AI Vision Multi-Barcode, AI Voice (Translingo/Control)
+**EMM:** SOTI, Omnissa Workspace ONE, 42Gears, safeUEM
+**Industry:** SAP, Velocity (TE), P3finder, TeamViewer
+
+## Accessories
+
+- RFID Sled
+- Single-Slot / 5-Slot Charging Cradle (with/without rugged case + spare battery)
+- Single-Slot Ethernet Cradle / Ethernet+Display Cradle
+- 4-Slot Battery Charger
+- Standard Battery (4000 mAh) / High-Capacity (4950 mAh)
+- Rugged Case
+- Glass Protective Film, Wrist Strap, Shoulder Strap
+- 18W + 10W Wall Adapters + USB-C Cable
+
+## Target Industries
+
+Retail, Transportation & Logistics, Airlines, Hospitality & Events, Healthcare

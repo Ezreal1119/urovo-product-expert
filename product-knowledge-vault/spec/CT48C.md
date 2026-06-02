@@ -1,0 +1,153 @@
+# CT48C — Handheld Terminal
+
+| Attribute | Value |
+| --- | --- |
+| Category | [[categories/handheld-terminal|Handheld Terminal]] |
+| Operating System | Android 12.0 |
+| Processor | Octa-core 2.0 GHz |
+| IP Rating | IP67 |
+| Display | 4.0" 480×800 |
+
+## Key Technologies
+
+Professional 2D Imager, BT5.0, 2W Speaker
+
+## Full Specifications
+
+
+## Performance
+
+| Parameter | Specification |
+| --- | --- |
+| Model | UROVO CT48C |
+| Operating System | Android 12.0 |
+| Processor | Octa-core 2.0 GHz |
+| Memory | RAM: 4 GB, ROM: 64 GB |
+| Extended Memory | Micro SD card, up to 256 GB SDXC |
+
+## Physical Characteristics
+
+| Parameter | Specification |
+| --- | --- |
+| Dimensions | 165.7 × 66 × 18 mm |
+| Weight | 268 g (with standard battery) |
+
+## Display & Input
+
+| Parameter | Specification |
+| --- | --- |
+| Display | 4.0 inch, 480 × 800 |
+| Touch Screen | Ultra-sensitive capacitive touch panel, multi-touch, works with gloves and wet fingers |
+| Buttons | Virtual keys: Return, Home, Menu; Number keys: 0–9, "."; 1Aa key (Number/Letter toggle); Fn key (Function combination); Function keys: P1, P2; Side Scan Key × 2, Front Scan Key × 1, Side Power Key × 1; Direction Key × 4 (Up/Down/Left/Right); Delete Key × 1, Enter Key × 1, TAB Key × 1 |
+| Audio | Dual-microphone with noise cancellation, 2W speaker |
+
+## Power
+
+| Parameter | Specification |
+| --- | --- |
+| Main Battery | 3.85V, 5000 mAh |
+| Charging Time | Less than 4 hours |
+
+## Data Capture
+
+### Camera
+
+| Parameter | Specification |
+| --- | --- |
+| Front Camera | None (2 MP optional, Fixed Focus) |
+| Rear Camera | 13 MP Autofocus, Flash LED, 1080p video recording |
+
+### Scan Engine
+
+| Parameter | Specification |
+| --- | --- |
+| Type | Professional 2D Imager Engine |
+| Scan Angle — Tilt | 360° |
+| Scan Angle — Pitch | ±60° |
+| Scan Angle — Skew | ±60° |
+| 1D Barcodes | Codabar, Code 11, Code 128, Code 2 of 5, Code 39, Code 93/93i, EAN/JAN-13, EAN/JAN 8, IATA Code 2 of 5, Interleaved 2 of 5, Matrix 2 of 5, MSI, GS1 Databar, UPC-A, UPC-E, UPC-A/EAN-13 with Extended Coupon Code, Coupon GS1 Code 32 (PARAF), EAN-UCC Emulation, GS1 DataBar |
+| 2D Stacked | Codablock A, Codablock F, PDF417, MicroPDF417 |
+| 2D Matrix | Aztec Code, Data Matrix, MaxiCode, QR Code, Chinese Sensible (Han Xin), Grid Matrix, Dot Code |
+| Postal | Australian Post, British Post, Canadian Post, China Post, Japanese Post, Korea Post, Netherlands Post, Planet Code, Postnet |
+| Special | Barcode on screen, colored barcode support |
+
+### RFID / NFC (Optional)
+
+| Parameter | Specification |
+| --- | --- |
+| Type | Read/Write (HF) |
+| Protocol | ISO15693, ISO14443 A/B, Mifare, Felica |
+| Frequency | 13.56 MHz |
+| Mode | Card Emulation, Peer-to-Peer, Reader via Host and UICC |
+| Reading Range | 0–6 cm (ISO15693), 0–4 cm (ISO14443A/B) |
+
+## Connectivity
+
+### Cellular (WWAN)
+
+| Parameter | Specification |
+| --- | --- |
+| Technology | 4G / 3G / 2G |
+| Frequency Bands (Europe & Asia) | TD-LTE (B34/B38/B39/B40/B41); FDD-LTE (B1/B3/B5/B7/B8/B20); WCDMA (B1/B5/B8); TD-SCDMA (B34/B39); CDMA & EVDO (BC0); GSM/EDGE/GPRS (850/900/1800/1900); VoLTE support |
+
+### Wi-Fi (WLAN)
+
+| Parameter | Specification |
+| --- | --- |
+| Protocol | IEEE 802.11 a/b/g/n/ac/d/e/h/i/k/r/v/w (2.4G / 5G dual-band) |
+| Channels | CH1–CH13, CH34–CH140, CH149–CH165 (region-dependent) |
+| Security & Encryption | 802.1x, TKIP, AES, PEAPv1, EAP-TLS, EAP-TTLS, PEAP-MSCHAPv2, PEAP-TLS, PEAP-GTC, PWD, SIM, AKA, WEP, WPA/WPA2-PSK, WAPI, WAPI-PSK |
+| Fast Roaming | PMKID caching; 802.11r (Over-the-Air); roaming threshold configurable |
+
+### Bluetooth (WPAN)
+
+| Parameter | Specification |
+| --- | --- |
+| Version | BT 5.0 + BR/EDR + BLE |
+| Range | More than 10 meters |
+
+### Positioning
+
+| Parameter | Specification |
+| --- | --- |
+| Systems | GPS, A-GPS, BEIDOU, GLONASS, Galileo |
+| Frequency | GPS (L1 1.575 GHz C/A), BEIDOU (B1 1.561 GHz), GLONASS (L1 1.602 GHz), Galileo (E1 1.589 / E2 1.561 GHz) |
+| Cold Start Time | Less than 40 seconds |
+| Max Channels | 31 |
+| Sensitivity | -130 dB (SNR 40 dBHz) |
+| Precision | 5–10 meters (open space) |
+
+### Slots & Interfaces
+
+| Parameter | Specification |
+| --- | --- |
+| SIM / SD | Nano-SIM × 1 or Micro SD × 1 (up to 256 GB) |
+| Interface | USB Type-C, Pogo Pin |
+
+## Durability
+
+| Parameter | Specification |
+| --- | --- |
+| Sealing | IP67 |
+| Drop | Multiple 1.5 m drops to concrete at room temperature |
+| Tumbling | 400 × 1.0 m tumbles |
+| ESD | ±15 kV Air; ±8 kV Contact |
+| Operating Temperature | -20°C to 60°C |
+| Storage Temperature | -40°C to 70°C |
+| Humidity | 5%–95% RH (non-condensing) |
+
+## Accessories
+
+**Standard:**
+- Adapter × 1
+- Type-C Cable × 1
+- Battery × 1
+- Instructions & Security Information & Warranty Card × 1
+- Hand Strap × 1
+
+**Optional:**
+- Single Slot Charging Cradle
+- 4-Slot Battery Charging Cradle
+- Screen Protector
+- Rugged Boots
+- Shoulder Strap
