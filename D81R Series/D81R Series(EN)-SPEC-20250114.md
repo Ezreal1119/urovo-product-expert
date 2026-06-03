@@ -5,8 +5,8 @@
 | Parameter | D812R | D813R |
 | --- | --- | --- |
 | Resolution | 203 DPI | 300 DPI |
-| Print Speed | 200 mm/s | 150 mm/s |
-| Max Print Width | 104 mm | 108 mm |
+| Print Speed | 4 inch/s (RFID print/write) | 4 inch/s (RFID print/write) |
+| Max Print Width | 104 mm | 108.4 mm |
 
 ## Media
 
@@ -14,9 +14,9 @@
 | --- | --- |
 | Paper Type | Continuous, gap, black mark, perforated, fanfold |
 | Min Paper Width | 20 mm |
-| Max Paper Width | 120 mm |
+| Max Paper Width | 118 mm |
 | Paper Outer Diameter | 127 mm |
-| Paper Thickness | 0.06–0.26 mm |
+| Paper Thickness | 0.06–1.3 mm |
 
 ## Ribbon
 
@@ -38,8 +38,8 @@
 
 | Parameter | Specification |
 | --- | --- |
-| RAM/Flash | 128 MB / 128 MB |
-| CPU | 400 MHz, 32-bit ARM9 |
+| RAM/Flash | 8 MB PSRAM / 16 MB Flash |
+| CPU | 500 MHz, 32-bit Cortex-M7 |
 | Sensors | Cover open, Ribbon, Distance, Black mark, Paper pick |
 | Buzzer | ✓ |
 
@@ -55,6 +55,6 @@
 
 | Parameter | Specification |
 | --- | --- |
-| Dimensions | 280 × 190 × 198 mm |
+| Dimensions | 190 × 198.3 × 280 mm |
 | Operating Temp | 5°C to 40°C |
 | Storage Temp | -40°C to 60°C |

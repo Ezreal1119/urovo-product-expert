@@ -92,7 +92,7 @@ The DT610 Pro combines cutting-edge technology with enterprise-grade durability 
 | OS | Android 15.0 (upgradable to Android 19) |
 | Memory | 8 GB + 128 GB UFS (12 GB + 256 GB optional) |
 | Expansion | MicroSD up to 2 TB |
-| Dimensions | 165 × 76.2 × 12.9 mm |
+| Dimensions | 169 × 78.2 × 15.8 mm |
 | Weight | 270 g |
 | Display | 6.0" 1080×2160 LCD, 600 nits, Corning Gorilla Glass |
 | Battery | 5500 mAh, user-replaceable, Smart BMS, AI optimization, hot-swap |
@@ -102,7 +102,7 @@ The DT610 Pro combines cutting-edge technology with enterprise-grade durability 
 | NFC | Dual-sided; ISO 14443 A/B, FeliCa, ISO 15693, MIFARE, Card Emulation, EMVCo PCD L1 |
 | Audio | Front-facing stereo speakers, >100 dB, advanced noise reduction |
 | Biometrics | Fingerprint in power button |
-| Wi-Fi | Wi-Fi 7 (802.11be), 2×2 MU-MIMO, up to 5765 Mbps, 2.4/5/6 GHz |
+| Wi-Fi | Wi-Fi 7 (802.11be), 2×2 MU-MIMO, up to 5764.7 Mbps, 2.4/5/6 GHz |
 | Bluetooth | BT 6.0, Class 1 & 2, BR/EDR + BLE |
 | Cellular | 5G NR Sub-6 (NSA+SA), Gigabit LTE-A, CBRS, VoLTE, Carrier Aggregation |
 | Sealing | IP68 |

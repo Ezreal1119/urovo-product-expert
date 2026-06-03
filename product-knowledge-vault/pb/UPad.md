@@ -4,7 +4,7 @@
 
 ## Product Highlights
 
-**11" WUXGA · <7mm · 500g · Wi-Fi 6E · In-Display RFID · SoftPOS · Hot-Swap 7600mAh**
+**11" WUXGA · <7mm · 500g · Wi-Fi 6E · In-Display RFID · SoftPOS · 8000mAh**
 
 ## Key Differentiator
 

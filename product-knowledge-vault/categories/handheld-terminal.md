@@ -17,7 +17,7 @@ Enterprise-grade handheld computers, ranging from compact keypad devices to full
 | [[spec/DT50P|DT50P]] | Android 11/13 | 2.45 GHz | 5.7" 720×1440 | IP67 | 9000mAh | UHF (20m) | Pistol grip, Impinj E710, 1300+ tags/s |
 | [[spec/DT50P Lite|DT50P Lite]] | Android 13 | QCOM 2.45 GHz | 5.7" 720×1440 | IP67 | 6500mAh | HF+UHF | Dual RFID, Impinj E710 Gen2X, 498g |
 | [[spec/RT30|RT30]] | Android 14 | 2.0 GHz | 3.5" 640×960 | IP67 | 4900mAh | NFC opt | Hot-swap, 2TB microSD |
-| [[spec/RT40S|RT40S]] | Android 13 GMS | QCOM 2.45 GHz | 4.5" 720×1440 | IP65 | 5000mAh | NFC | Cold chain -30°C, Wi-Fi 6 Ready |
+| [[spec/RT40S|RT40S]] | Android 13 GMS | QCOM 2.45 GHz | 4" 480×800 | IP68 | 5200mAh | NFC | Cold chain -30°C, Wi-Fi 6 |
 
 ## Technology Generations
 

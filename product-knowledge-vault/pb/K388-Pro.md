@@ -15,10 +15,10 @@ Integrated scanning, printing, peeling, and labeling. Complete labeling in 1.5 s
 Built-in 1D/2D barcode scanner for instant label verification.
 
 ### High-Speed Printing
-Up to 120 mm/s at 203 DPI. 80mm media width.
+Up to 120 mm/s at 203 DPI. ≤58 mm media width.
 
 ### Heavy-Duty Construction
-Metal frame, IP54 sealed, 1.5 m drop. 10.8V 3000mAh battery with hot-swap.
+Metal frame, 1.5 m drop. 10.8V 3000mAh battery with hot-swap.
 
 ## Key Differentiator
 Only product combining scan+print+peel+label in one device with full Android 14 computing.

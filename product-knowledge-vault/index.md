@@ -22,7 +22,7 @@ Master catalog of all pages in the UROVO Product Knowledge Base.
 
 | Page | Summary |
 | --- | --- |
-| [[technology/wi-fi-7|Wi-Fi 7 (802.11be)]] | 5,765 Mbps, 320 MHz — deployed on DT610 series |
+| [[technology/wi-fi-7|Wi-Fi 7 (802.11be)]] | 5,764.7 Mbps, 320 MHz — deployed on DT610 series |
 | [[technology/uhf-rfid|UHF RFID Technology]] | Full UHF RFID ecosystem: 10 products, 4 form factors, 3 range tiers |
 
 ## Comparison Pages
@@ -44,8 +44,8 @@ Master catalog of all pages in the UROVO Product Knowledge Base.
 | Page | Products | Summary |
 | --- | --- | --- |
 | [[categories/handheld-terminal|Handheld Terminals]] | 12 | CT48–CT58S, DT40–DT50P Lite, RT30, RT40S |
-| [[categories/enterprise-smartphone|Enterprise Smartphones]] | 7 | DT50-Pro, DT66, DT610–DT630, i5300/i5300L |
-| [[categories/pos-terminal|POS Terminals]] | 4 | i9000S, i9100, i9200, i9600 |
+| [[categories/enterprise-smartphone|Enterprise Smartphones]] | 5 | DT50-Pro, DT66, DT610–DT630 |
+| [[categories/pos-terminal|POS Terminals]] | 6 | i5300/i5300L, i9000S, i9100, i9200, i9600 |
 | [[categories/barcode-scanner|Barcode Scanners]] | 6 | K180, K200, K220, SR5600 V2, SR5750, S710 |
 | [[categories/mobile-printer|Mobile Printers]] | 4 | K329, K388 Pro, K389, K419 |
 | [[categories/desktop-printer|Desktop Printers & Fixed RFID]] | 5 | D8100 Plus, D81R, FR1000, FR2000, FR7000 |
@@ -67,7 +67,7 @@ Master catalog of all pages in the UROVO Product Knowledge Base.
 | [[spec/DT50P|DT50P]] | Pistol grip, Impinj E710, 20m UHF, 9000mAh |
 | [[spec/DT50P Lite|DT50P Lite]] | Lightweight 498g, dual HF+UHF RFID |
 | [[spec/RT30|RT30]] | Compact 3.5", Android 14, hot-swap |
-| [[spec/RT40S|RT40S]] | 4.5" with cold chain -30°C option |
+| [[spec/RT40S|RT40S]] | 4" with cold chain -30°C option |
 
 ### Enterprise Smartphones
 | Page | Product |
@@ -77,16 +77,16 @@ Master catalog of all pages in the UROVO Product Knowledge Base.
 | [[spec/DT610|DT610]] | Qualcomm Q-6690, Wi-Fi 7, 5G, 222g |
 | [[spec/DT610 Pro|DT610 Pro]] | Q-6690, 50MP, 3D sensing, IP68 |
 | [[spec/DT630|DT630]] | 4nm NPU, 6.6", 10.4mm, IP68 |
-| [[spec/i5300|i5300]] | Compact, physical keypad, 240g |
-| [[spec/i5300L|i5300L]] | Laser scan engine variant |
+| [[spec/i5300|i5300]] | Compact smart POS, 3.5" display |
+| [[spec/i5300L|i5300L]] | Smart POS, 5" display |
 
 ### POS Terminals
 | Page | Product |
 | --- | --- |
 | [[spec/i9000S|i9000S]] | 5.0", Octa-core, PCI/EMV |
 | [[spec/i9100|i9100]] | 5.5", Quad-core, value POS |
-| [[spec/i9200|i9200]] | 6.5", Octa/Quad option |
-| [[spec/i9600|i9600]] | Dual screen, 80mm 150mm/s printer |
+| [[spec/i9200|i9200]] | 5.5", Octa/Quad option |
+| [[spec/i9600|i9600]] | Dual screen, 58mm 80mm/s printer |
 
 ### Barcode Scanners
 | Page | Product |
@@ -94,7 +94,7 @@ Master catalog of all pages in the UROVO Product Knowledge Base.
 | [[spec/K180|K180]] | Wireless ring scanner, BT5.2 |
 | [[spec/K200|K200]] | Wired handheld, DPM reading |
 | [[spec/K220|K220]] | Wireless handheld with base |
-| [[spec/SR5600-V2|SR5600 V2]] | Wearable ring, BT5.3, IP67 |
+| [[spec/SR5600-V2|SR5600 V2]] | Wearable ring, BT5.3, IP65 |
 | [[spec/SR5750|SR5750]] | Android wearable computer |
 | [[spec/S710|S710]] | Desktop barcode reader |
 
@@ -153,8 +153,8 @@ Master catalog of all pages in the UROVO Product Knowledge Base.
 | Category | Pages |
 | --- | --- |
 | Handheld Terminals | [[pb/CT48|CT48]], [[pb/CT48C|CT48C]], [[pb/CT58|CT58]], [[pb/CT58C|CT58C]], [[pb/CT58S|CT58S]], [[pb/DT40|DT40]], [[pb/DT50|DT50]], [[pb/DT50D|DT50D]], [[pb/DT50P|DT50P]], [[pb/DT50P-Lite|DT50P Lite]], [[pb/RT30|RT30]], [[pb/RT40S|RT40S]] |
-| Enterprise Smartphones | [[pb/DT50-Pro|DT50-Pro]], [[pb/DT66|DT66]], [[pb/DT610|DT610]], [[pb/DT610-Pro|DT610 Pro]], [[pb/DT630|DT630]], [[pb/i5300|i5300]], [[pb/i5300L|i5300L]] |
-| POS Terminals | [[pb/i9000S|i9000S]], [[pb/i9100|i9100]], [[pb/i9200|i9200]], [[pb/i9600|i9600]] |
+| Enterprise Smartphones | [[pb/DT50-Pro|DT50-Pro]], [[pb/DT66|DT66]], [[pb/DT610|DT610]], [[pb/DT610-Pro|DT610 Pro]], [[pb/DT630|DT630]] |
+| POS Terminals | [[pb/i5300|i5300]], [[pb/i5300L|i5300L]], [[pb/i9000S|i9000S]], [[pb/i9100|i9100]], [[pb/i9200|i9200]], [[pb/i9600|i9600]] |
 | Barcode Scanners | [[pb/K180|K180]], [[pb/K200|K200]], [[pb/K220|K220]], [[pb/SR5600|SR5600]], [[pb/SR5600-V2|SR5600 V2]], [[pb/SR5750|SR5750]], [[pb/S710|S710]] |
 | Mobile Printers | [[pb/K329|K329]], [[pb/K388-Pro|K388 Pro]], [[pb/K389|K389]], [[pb/K419|K419]] |
 | Desktop Printers | [[pb/D8100-plus|D8100 Plus]], [[pb/D81R-Series|D81R Series]] |

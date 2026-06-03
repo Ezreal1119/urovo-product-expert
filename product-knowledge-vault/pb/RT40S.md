@@ -4,7 +4,7 @@
 
 ## Product Highlights
 
-**QCOM 2.45GHz · Wi-Fi 6 · 15m Scan Range · Cold Chain -30°C Option · IP65**
+**QCOM 2.45GHz · Wi-Fi 6 · 15m Scan Range · Cold Chain -30°C Option · IP68**
 
 ## Key Differentiator
 

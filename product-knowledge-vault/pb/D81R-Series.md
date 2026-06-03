@@ -14,8 +14,8 @@ Simultaneous printing and encoding of RFID labels — no rewind needed.
 ### Dual Printing Mode
 Direct thermal and thermal transfer modes for different media needs.
 
-### Same Platform as D8100 Plus
-Identical CPU, RAM, mechanics — adds RFID to the proven D8100 platform.
+### RFID-Specific Hardware
+RFID print/write speed, memory, CPU, and media handling differ from D8100 Plus; use the D81R spec page for RFID tender responses.
 
 ## Related Pages
 

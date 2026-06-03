@@ -23,12 +23,12 @@ USB + USB Host + Ethernet + Serial standard. Wi-Fi and Bluetooth optional.
 | Parameter | D812R | D813R |
 | --- | --- | --- |
 | Resolution | 203 DPI | 300 DPI |
-| Print Speed | 200 mm/s | 150 mm/s |
-| Print Width | 104 mm | 108 mm |
+| Print Speed | 4 inch/s (RFID print/write) | 4 inch/s (RFID print/write) |
+| Print Width | 104 mm | 108.4 mm |
 | RFID | UHF 840–960 MHz, ISO18000-6C | Same |
 | Print Mode | Direct Thermal + Thermal Transfer | Same |
-| RAM/Flash | 128 MB / 128 MB | Same |
+| RAM/Flash | 8 MB PSRAM / 16 MB Flash | Same |
 | Standard Interfaces | USB, USB Host, Ethernet, Serial | Same |
 | Optional | Wi-Fi, Bluetooth | Same |
 | Ribbon Length | 300 m | Same |
-| Media Width | 20–120 mm | Same |
+| Media Width | 20–118 mm | Same |

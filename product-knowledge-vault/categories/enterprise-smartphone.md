@@ -11,15 +11,12 @@ Premium enterprise-grade mobile computers with smartphone-class designs, large d
 | [[spec/DT610|DT610]] | Android 15 | Q-6690 2.9 GHz | 6.0" 1080×2160 | IP67 | 4000mAh | ✓ | 1.1M | 6 TOPS |
 | [[spec/DT610 Pro|DT610 Pro]] | Android 15 | Q-6690 2.9 GHz | 6.0" 1080×2160 | IP68 | 5500mAh | ✓ | 1.1M | 6 TOPS |
 | [[spec/DT630|DT630]] | Android 15 | 4nm + NPU | 6.6" 1080×2408 | IP68 | 4500mAh | ✓ | 950K+ | NPU |
-| [[spec/i5300|i5300]] | Android 13 | A53 2.0 GHz | 4.0" 480×800 | IP65 | 5000mAh | — | — | — |
-| [[spec/i5300L|i5300L]] | Android 13 | A53 2.0 GHz | 4.0" 480×800 | IP65 | 5000mAh | — | — | — |
 
 ## Technology Tiers
 
 - **Flagship (2025+)**: DT610 Series (Q-6690, Wi-Fi 7, 5G, UHF RFID, AI)
 - **Performance**: DT630 (4nm NPU, 6.6"), DT66 (5G + Wi-Fi 6E)
 - **Mid-Range**: DT50-Pro (Android 16, Wi-Fi 6E)
-- **Value**: i5300/i5300L (compact, physical keypad)
 
 ## Connectivity Evolution
 

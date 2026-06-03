@@ -44,7 +44,7 @@ Category: [[categories/mobile-printer|Mobile Printer]]
 | Parameter | Specification |
 | --- | --- |
 | Printer Type | Thermal |
-| Media Width | 80 mm |
+| Media Width | ≤58 mm |
 | Resolution | 203 DPI (8 dots/mm) |
 | Print Speed | Up to 120 mm/s |
 | Instruction Sets | TSPL, ESC/POS, ZPL, CPCL |
@@ -53,8 +53,8 @@ Category: [[categories/mobile-printer|Mobile Printer]]
 
 | Parameter | Specification |
 | --- | --- |
-| Wi-Fi | 2.4G / 5G, IEEE 802.11 a/b/g/n/ac |
-| Bluetooth | BT 5.0 |
+| Wi-Fi | 2.4G / 5G, IEEE 802.11 a/b/g/n/ac/d/h/i/k/r/v/w/mc/ax, Wi-Fi 6E, 2×2 MU-MIMO |
+| Bluetooth | BT 5.3 |
 | Cellular | 4G |
 | Positioning | GPS, A-GPS, BEIDOU, GLONASS, Galileo |
 
@@ -62,8 +62,7 @@ Category: [[categories/mobile-printer|Mobile Printer]]
 
 | Parameter | Specification |
 | --- | --- |
-| Sealing | IP54 |
 | Drop | 1.5 m |
-| Operating Temperature | -10°C to 50°C |
+| Operating Temperature | -20°C to 60°C |
 | Storage Temperature | -20°C to 70°C |
 | Humidity | 5%–95% RH (non-condensing) |

@@ -27,11 +27,12 @@ This is a strategic platform choice — same core RFID engine adapted to differe
 | --- | --- | --- |
 | Android 9 | DT40 (base config) | Legacy |
 | Android 10 | FR1000 | Legacy |
-| Android 11 | DT40, DT50 (base), DT50D/P (base), U100 | Mature |
+| Android 11 | DT40, DT50 (base), DT50D/P (base) | Mature |
 | Android 12 | CT48/48C/58/58S, i9100 | Mainstream |
-| Android 13 | CT58C, DT50/50D/50P/P Lite (optional), DT50P Lite, DT66, i5300/L, i9000S, i9200, i9600, RT40S, P8100, SR5750, U2S (14) | Current |
+| Android 13 | CT58C, DT50/50D/50P/P Lite (optional), DT50P Lite, DT66, i5300/L, i9000S, i9200, i9600, RT40S, P8100, SR5750, U2S, U100 | Current |
 | Android 14 | CT58C (optional), RT30, K388 Pro, U2S | Current+ |
-| Android 15 | DT610, DT610 Pro, DT630, UPad | Next-gen |
+| Android 15 | DT610, DT610 Pro, DT630 | Next-gen |
+| Android 16 | UPad | Next-gen |
 | Android 16 | DT50-Pro | Latest |
 
 **Trend**: Rapid OS advancement. DT610/DT630 launch with Android 15, upgradable to 19/20 — indicating longer software support lifecycle.
@@ -39,7 +40,7 @@ This is a strategic platform choice — same core RFID engine adapted to differe
 ## 4. Wi-Fi Generational Leap
 
 UROVO is aggressively adopting latest Wi-Fi standards:
-- **Wi-Fi 7** (802.11be) on DT610 Series — 5765 Mbps, 320 MHz channels
+- **Wi-Fi 7** (802.11be) on DT610 Series — 5764.7 Mbps, 320 MHz channels
 - **Wi-Fi 6E** on DT50-Pro, DT66, DT610 Pro — 6 GHz band, 1200 MHz new spectrum
 - **Wi-Fi 6 Ready** (802.11ax) on DT50, RT40S, P8100
 
@@ -52,10 +53,10 @@ This is unusual for enterprise devices — most competitors are still on Wi-Fi 5
 | 2000–3360mAh | SR5750, U2S | Wearable hot-swap |
 | 4000–5000mAh | CT, DT40/50/66, i-series, K-series | Standard full-shift |
 | 5200–6500mAh | DT50P Lite, DT50-Pro opt, i9100 | Extended shift |
-| 7600–10000mAh | UPad, P8100P, P8100 | Multi-shift tablet |
+| 8000–10000mAh | UPad, P8100P, P8100 | Multi-shift tablet |
 | 9000mAh | DT50P | Pistol grip high-power |
 
-Hot-swap is becoming standard on premium devices: DT66, DT610, DT610 Pro, DT50-Pro, SR5750, U2S.
+Hot-swap is becoming standard on premium devices: DT66, DT610, DT610 Pro, DT50-Pro, U2S.
 
 ## 6. Form Factor Diversification
 

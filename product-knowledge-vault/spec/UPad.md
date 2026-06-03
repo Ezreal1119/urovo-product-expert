@@ -21,7 +21,7 @@ UPad is a next-generation commercial mobility platform combining payment, data c
 
 **Wi-Fi 6E Connectivity** — High-speed, low-latency wireless for seamless real-time data synchronization.
 
-**Hot-Swap Power** — 7600 mAh battery with hot-swap for uninterrupted operation.
+**Smart Battery Management** — 8000 mAh service-replaceable battery for sustained operation.
 
 ## Specifications
 
@@ -31,9 +31,9 @@ UPad is a next-generation commercial mobility platform combining payment, data c
 | Thickness | Under 7 mm |
 | Weight | 500 g |
 | Processor | Qualcomm Octa-core |
-| OS | Android 15 |
-| Battery | 7600 mAh, hot-swap |
-| Camera | 13 MP + 5 MP (48 MP optional) |
+| OS | Android 16, upgradable to Android 20 |
+| Battery | 3.87V, 8000 mAh, 30.96Wh |
+| Camera | Rear: 16 MP autofocus; Front: 8 MP fixed focus |
 | Scanner | Integrated barcode scanner |
 | RFID | In-display RFID reader |
 | Payment | SoftPOS contactless |

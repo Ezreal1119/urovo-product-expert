@@ -7,7 +7,7 @@
 | Operating System | Android 13 |
 | Processor | Quad-core A53 2.0 GHz (Octa-core A53 2.0 GHz optional) |
 | Memory | RAM: 3 GB, ROM: 32 GB |
-| Display | 6.5 inch, 720 × 1600 |
+| Display | 5.5 inch, 720 × 1440 |
 
 ## Printer
 
@@ -16,7 +16,7 @@
 | Type | Thermal |
 | Media Width | 58 mm |
 | Resolution | 203 DPI |
-| Print Speed | 60–70 mm/s |
+| Print Speed | 60-80 mm/s |
 
 ## Data Capture
 
@@ -45,7 +45,7 @@
 
 | Parameter | Specification |
 | --- | --- |
-| Battery | 3.6V, 5000 mAh (typ.) |
+| Battery | 3.85V, 5000 mAh |
 
 ## Environment
 

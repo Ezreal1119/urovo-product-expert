@@ -18,7 +18,7 @@ The SR5750 is a fully integrated, enterprise-grade Android wearable computer bui
 
 **Flexible Wearing** — Wrist, finger, back of hand, or neck strap. Four physical buttons for true hands-free operation.
 
-**Hot-Swap Battery** — 2000 mAh with hot-swap support for continuous operation. IP68 sealed, 3 m drop resistance.
+**Battery & Durability** — 1150 mAh rechargeable battery, IP67 sealing, and 1.8 m drop resistance.
 
 ## Specifications
 
@@ -26,15 +26,15 @@ The SR5750 is a fully integrated, enterprise-grade Android wearable computer bui
 | --- | --- |
 | Processor | Octa-core 2.0 GHz |
 | OS | Android 13 (Watch UI) |
-| Display | 2.1" AMOLED touchscreen |
+| Display | 2.06" screen, 410 × 502 |
 | Weight | 70 g |
 | Scanner | Professional scan engine, 1D/2D |
 | Camera | 13 MP PDAF |
 | NFC | In-display |
 | Wi-Fi | Wi-Fi 6, 2×2 MU-MIMO |
 | Bluetooth | BT 5.3 |
-| Battery | 2000 mAh, hot-swap |
+| Battery | 1150 mAh, rechargeable non-removable |
 | Buttons | 4 physical |
 | Wearing | Wrist, finger, back of hand, neck strap |
-| Sealing | IP68 |
-| Drop | 3 m |
+| Sealing | IP67 |
+| Drop | 1.8 m |

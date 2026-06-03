@@ -5,12 +5,12 @@
 | Category | [[categories/handheld-terminal|Handheld Terminal]] |
 | Operating System | Android 13 GMS |
 | Processor | Qualcomm Octa-core 2.45 GHz |
-| IP Rating | IP65 |
-| Display | 4.5" 720×1440 |
+| IP Rating | IP68 |
+| Display | 4" 480×800 |
 
 ## Key Technologies
 
-Wi-Fi 6 Ready, 15m Scan Range, Cold Chain -30°C option, 2×2 MU-MIMO
+Wi-Fi 6, 15m Scan Range, Cold Chain -30°C option, IP68, 1.8m Drop, 2×2 MU-MIMO
 
 ## Full Specifications
 
@@ -29,24 +29,24 @@ Wi-Fi 6 Ready, 15m Scan Range, Cold Chain -30°C option, 2×2 MU-MIMO
 
 | Parameter | Specification |
 | --- | --- |
-| Dimensions | 162.6 × 76 × 13.6 mm |
-| Weight | 265 g |
-| Display | 4.5 inch, 720 × 1440 |
-| Power | 5000 mAh |
+| Dimensions | 199 × 58 × 29 mm (thinnest) |
+| Weight | 425 g |
+| Display | 4 inch, 480 × 800 |
+| Power | 3.85V, 5200 mAh |
 
 ## Data Capture
 
 | Parameter | Specification |
 | --- | --- |
 | Scanner | Professional scan engine, 1D/2D |
-| Camera | Front: 5 MP; Rear: 13 MP with Flash |
+| Camera | Rear: 13 MP with Flash |
 
 ## Connectivity
 
 | Parameter | Specification |
 | --- | --- |
 | Cellular | 4G / 3G / 2G, Dual SIM |
-| Wi-Fi | 2.4G/5G, IEEE 802.11 a/b/g/n/ac, Wi-Fi 6E ready |
+| Wi-Fi | 2.4G/5G, IEEE 802.11 a/b/g/n/ac/d/h/i/k/r/v/w/mc/ax, Wi-Fi 6, 2×2 MU-MIMO |
 | Bluetooth | BT 5.0 |
 | Positioning | GPS, A-GPS, BEIDOU, GLONASS, Galileo |
 | NFC | Supported |
@@ -56,6 +56,6 @@ Wi-Fi 6 Ready, 15m Scan Range, Cold Chain -30°C option, 2×2 MU-MIMO
 
 | Parameter | Specification |
 | --- | --- |
-| Sealing | IP65 |
-| Drop | 1.5 m |
-| Operating Temperature | -20°C to 60°C |
+| Sealing | IP68 |
+| Drop | 1.8 m |
+| Operating Temperature | Regular: -20°C to 50°C; cold chain: -30°C to 50°C |

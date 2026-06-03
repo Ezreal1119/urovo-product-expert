@@ -6,7 +6,7 @@ Wi-Fi 7 represents a generational leap in wireless connectivity, deployed on URO
 
 | Metric | Wi-Fi 6 (802.11ax) | Wi-Fi 6E | Wi-Fi 7 (802.11be) |
 | --- | --- | --- | --- |
-| Max Speed | 1,201 Mbps | 1,201 Mbps | 5,765 Mbps |
+| Max Speed | 1,201 Mbps | 1,201 Mbps | 5,764.7 Mbps |
 | Channel Width | 160 MHz | 160 MHz | 320 MHz |
 | Frequency Bands | 2.4G / 5G | 2.4G / 5G / 6G | 2.4G / 5G / 6G |
 | Latency | Baseline | Lower | 4× lower |
@@ -19,8 +19,8 @@ Wi-Fi 7 represents a generational leap in wireless connectivity, deployed on URO
 
 | Product | Max Speed | Year |
 | --- | --- | --- |
-| [[spec/DT610|DT610]] | 5,765 Mbps | 2025+ |
-| [[spec/DT610-Pro|DT610 Pro]] | 5,765 Mbps | 2025+ |
+| [[spec/DT610|DT610]] | 5,764.7 Mbps | 2025+ |
+| [[spec/DT610-Pro|DT610 Pro]] | 5,764.7 Mbps | 2025+ |
 
 ## Wi-Fi Evolution Across UROVO Products
 

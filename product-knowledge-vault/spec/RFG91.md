@@ -19,7 +19,7 @@ The RFG91 transforms smartphones and mobile computers into professional-grade UH
 
 **All-in-One Data Collection** — RFID reading + barcode scanning in one device.
 
-**14-Hour Battery** — 5000 mAh battery for full-shift operation.
+**Flexible Battery Options** — 4900 mAh standard battery with optional 6700 mAh high-capacity battery for extended operation.
 
 ## Specifications
 
@@ -29,7 +29,7 @@ The RFG91 transforms smartphones and mobile computers into professional-grade UH
 | Read Rate | 1300+ tags/sec |
 | Read Range | 15 m+ |
 | Weight | 390 g |
-| Battery | 5000 mAh (14 hours) |
+| Battery | Standard 4900 mAh / 18 Wh; optional 6700 mAh / 25.2 Wh |
 | Form Factors | Standard, Magnetic, POGO PIN, Universal |
 | Platforms | Android, iOS, Windows |
 | Pairing | NFC, Bluetooth, QR code |
