@@ -8,7 +8,8 @@ Master catalog of all pages in the UROVO Product Knowledge Base.
 | --- | --- |
 | [[overview|Overview]] | High-level product portfolio view with category breakdowns and technology landscape |
 | [[synthesis|Synthesis & Key Insights]] | Cross-product patterns, strategic observations, and gap analysis |
-| [[CLAUDE|CLAUDE.md]] | Wiki schema, conventions, and LLM workflows |
+| [[SCHEMA|SCHEMA.md]] | Wiki schema, conventions, source hierarchy, and LLM workflows |
+| [[web-source|Official Web Sources]] | Verified official UROVO product web pages used as auxiliary context |
 | [[log|log.md]] | Chronological operation history |
 
 ## Entity Pages (Key Components)
@@ -65,7 +66,7 @@ Master catalog of all pages in the UROVO Product Knowledge Base.
 | [[spec/DT50|DT50]] | Premium 5.7", Wi-Fi 6 Ready, up to 8GB |
 | [[spec/DT50D|DT50D]] | DT50 with UHF RFID (1.5m) |
 | [[spec/DT50P|DT50P]] | Pistol grip, Impinj E710, 20m UHF, 9000mAh |
-| [[spec/DT50P Lite|DT50P Lite]] | Lightweight 498g, dual HF+UHF RFID |
+| [[spec/DT50P-Lite|DT50P Lite]] | Lightweight 498g, dual HF+UHF RFID |
 | [[spec/RT30|RT30]] | Compact 3.5", Android 14, hot-swap |
 | [[spec/RT40S|RT40S]] | 4" with cold chain -30°C option |
 
@@ -75,7 +76,7 @@ Master catalog of all pages in the UROVO Product Knowledge Base.
 | [[spec/DT50-Pro|DT50-Pro]] | Android 16, Wi-Fi 6E, AnTuTu 418K |
 | [[spec/DT66|DT66]] | 5G, Wi-Fi 6E, 6.5", iToF, IP68 |
 | [[spec/DT610|DT610]] | Qualcomm Q-6690, Wi-Fi 7, 5G, 222g |
-| [[spec/DT610 Pro|DT610 Pro]] | Q-6690, 50MP, 3D sensing, IP68 |
+| [[spec/DT610-Pro|DT610 Pro]] | Q-6690, 50MP, 3D sensing, IP68 |
 | [[spec/DT630|DT630]] | 4nm NPU, 6.6", 10.4mm, IP68 |
 | [[spec/i5300|i5300]] | Compact smart POS, 3.5" display |
 | [[spec/i5300L|i5300L]] | Smart POS, 5" display |
@@ -164,4 +165,4 @@ Master catalog of all pages in the UROVO Product Knowledge Base.
 
 ---
 
-*Last updated: 2026-06-02 | 46 products | 44 spec pages | 46 brochure pages | 7 category pages | 3 comparison pages | 3 feature pages | 2 technology pages | 2 entity pages | 5 cross-cutting pages | 112 total*
+*Last updated: 2026-06-03 | 46 products | 44 spec pages | 46 brochure pages | 7 category pages | 3 comparison pages | 3 feature pages | 1 matrix page | 2 technology pages | 2 entity pages | 6 core pages | 114 total*

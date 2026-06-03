@@ -2,7 +2,7 @@
 
 > Source: FR7000 Series(EN)-SPEC-20241218.md
 
-Category: [[categories/fixed-rfid-reader|Fixed Rfid Reader]]
+Category: [[categories/desktop-printer|Fixed RFID Reader]]
 
 
 ## Models

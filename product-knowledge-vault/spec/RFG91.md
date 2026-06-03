@@ -2,7 +2,7 @@
 
 > Source: RFG91 Product Spec Sheet.md
 
-Category: [[categories/rfid-sled|Rfid Sled]]
+Category: [[categories/other-devices|RFID Sled]]
 
 
 ## Overview

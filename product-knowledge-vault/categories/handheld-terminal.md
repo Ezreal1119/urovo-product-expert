@@ -15,7 +15,7 @@ Enterprise-grade handheld computers, ranging from compact keypad devices to full
 | [[spec/DT50|DT50]] | Android 11/13 | 2.45 GHz | 5.7" 720×1440 | IP67 | 5000mAh | HF/NFC | Premium, Wi-Fi 6 Ready, WPA3, 8GB option |
 | [[spec/DT50D|DT50D]] | Android 11/13 | 2.45 GHz | 5.7" 720×1440 | IP67 | 5000mAh | UHF (1.5m) | UHF RFID variant, thicker (21.9mm) |
 | [[spec/DT50P|DT50P]] | Android 11/13 | 2.45 GHz | 5.7" 720×1440 | IP67 | 9000mAh | UHF (20m) | Pistol grip, Impinj E710, 1300+ tags/s |
-| [[spec/DT50P Lite|DT50P Lite]] | Android 13 | QCOM 2.45 GHz | 5.7" 720×1440 | IP67 | 6500mAh | HF+UHF | Dual RFID, Impinj E710 Gen2X, 498g |
+| [[spec/DT50P-Lite|DT50P Lite]] | Android 13 | QCOM 2.45 GHz | 5.7" 720×1440 | IP67 | 6500mAh | HF+UHF | Dual RFID, Impinj E710 Gen2X, 498g |
 | [[spec/RT30|RT30]] | Android 14 | 2.0 GHz | 3.5" 640×960 | IP67 | 4900mAh | NFC opt | Hot-swap, 2TB microSD |
 | [[spec/RT40S|RT40S]] | Android 13 GMS | QCOM 2.45 GHz | 4" 480×800 | IP68 | 5200mAh | NFC | Cold chain -30°C, Wi-Fi 6 |
 
@@ -29,5 +29,5 @@ Enterprise-grade handheld computers, ranging from compact keypad devices to full
 
 - [[comparisons/ct-series-comparison|CT Series Comparison]]
 - [[comparisons/dt-series-comparison|DT Series Comparison]]
-- [[features/uhf-rfid|UHF RFID Technology]]
-- [[technology/impinj-e710|Impinj E710 Chipset]]
+- [[features/rfid-capabilities|RFID Capabilities]]
+- [[entity/impinj-e710|Impinj E710 Chipset]]

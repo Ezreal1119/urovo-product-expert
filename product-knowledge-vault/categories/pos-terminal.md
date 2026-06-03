@@ -41,5 +41,5 @@ All POS terminals share:
 
 ## Cross-Reference
 
-- [[comparisons/pos-terminal-comparison|POS Terminal Comparison]]
-- [[features/payment-certifications|Payment Certifications]]
+- [[categories/pos-terminal|POS Terminal Overview]]
+- [[index|Product Knowledge Vault Index]]

@@ -44,4 +44,4 @@ UROVO also supports HF/NFC (13.56 MHz) on many handhelds. Some products like [[s
 
 - [[entity/impinj-e710|Impinj E710 Chipset]]
 - [[categories/desktop-printer|Fixed RFID Readers]]
-- [[mobiles/printers|RFID Printers]]
+- [[categories/desktop-printer|Desktop Printers & Fixed RFID]]

@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-06-03T00:00:00Z",
+  "purpose": "AI-readable records for official-web-vs-local-PDF or official-web-vs-vault conflicts.",
+  "source_of_truth_policy": "Local official PDFs are primary. Official web pages are auxiliary sources used for context and conflict detection.",
+  "status_values": [
+    "open",
+    "user-decided",
+    "fixed",
+    "ignored-known-difference"
+  ],
+  "severity_values": [
+    "info",
+    "low",
+    "medium",
+    "high"
+  ],
+  "conflicts": []
+}

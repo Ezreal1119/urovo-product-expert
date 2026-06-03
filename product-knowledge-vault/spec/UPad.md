@@ -2,7 +2,7 @@
 
 > Source: UPad Product Spec Sheet.md
 
-Category: [[categories/enterprise-tablet|Enterprise Tablet]]
+Category: [[categories/other-devices|Enterprise Tablet]]
 
 
 ## Overview

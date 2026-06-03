@@ -9,7 +9,7 @@ Premium enterprise-grade mobile computers with smartphone-class designs, large d
 | [[spec/DT66|DT66]] | Android 13 GMS | 2.4 GHz | 6.5" 720×1600 | IP68 | 5000mAh | ✓ | — | iToF optional |
 | [[spec/DT50-Pro|DT50-Pro]] | Android 16 GMS | 2.4 GHz | 5.7" 720×1440 | IP67 | 5000mAh | — | 418K | — |
 | [[spec/DT610|DT610]] | Android 15 | Q-6690 2.9 GHz | 6.0" 1080×2160 | IP67 | 4000mAh | ✓ | 1.1M | 6 TOPS |
-| [[spec/DT610 Pro|DT610 Pro]] | Android 15 | Q-6690 2.9 GHz | 6.0" 1080×2160 | IP68 | 5500mAh | ✓ | 1.1M | 6 TOPS |
+| [[spec/DT610-Pro|DT610 Pro]] | Android 15 | Q-6690 2.9 GHz | 6.0" 1080×2160 | IP68 | 5500mAh | ✓ | 1.1M | 6 TOPS |
 | [[spec/DT630|DT630]] | Android 15 | 4nm + NPU | 6.6" 1080×2408 | IP68 | 4500mAh | ✓ | 950K+ | NPU |
 
 ## Technology Tiers
@@ -29,5 +29,5 @@ Premium enterprise-grade mobile computers with smartphone-class designs, large d
 ## Cross-Reference
 
 - [[comparisons/enterprise-smartphone-comparison|Enterprise Smartphone Comparison]]
-- [[technology/qualcomm-q6690|Qualcomm Q-6690 Platform]]
-- [[features/ai-and-edge-computing|AI & Edge Computing]]
+- [[entity/qualcomm-q6690|Qualcomm Q-6690 Platform]]
+- [[comparisons/enterprise-smartphone-comparison|Enterprise Smartphone Comparison]]

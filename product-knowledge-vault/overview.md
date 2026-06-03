@@ -54,5 +54,5 @@ This knowledge base catalogs 46 UROVO enterprise products across 11 categories, 
 - [[synthesis|Synthesis & Key Insights]]
 - [[index|Full Page Index]]
 - [[matrices/performance-matrix|Performance Comparison Matrix]]
-- [[matrices/connectivity-matrix|Connectivity Comparison Matrix]]
-- [[matrices/durability-matrix|Durability Comparison Matrix]]
+- [[features/connectivity|Connectivity Evolution]]
+- [[features/durability|Durability Tiers]]

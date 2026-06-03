@@ -26,3 +26,16 @@
 - Found & fixed: features/ directory empty → added connectivity, durability, RFID pages  
 - Found & fixed: DT610 Pro spec missing Overview/Key Differentiators → added
 - Found & fixed: index.md outdated counts → refreshed to 112 pages
+
+## [2026-06-03] structure | Official Web Source Layer Added
+
+### Changes
+- Added `web-source.md` with 46 product rows and verified official UROVO web URLs where available.
+- Added official-web conflict workflow files: `sync/web_conflicts.json`, root-level `WEB_VS_LOCAL_CONFLICTS.md`, and root-level `USER_JUDGMENT_NEEDED.md`.
+- Updated `SCHEMA.md` and `SYNC_INSTRUCTION.md` with web-source, conflict, user-judgment, and wiki-link audit rules.
+- Fixed deterministic broken wiki links caused by renamed schema/category/spec targets.
+
+### Verification
+- Wiki link scan: 566 links, 0 broken.
+- Official web source table: 46 products, 36 filled URLs, 10 blank URLs with no verified official page found.
+- Vault count updated to 114 markdown pages.

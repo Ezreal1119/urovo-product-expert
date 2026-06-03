@@ -2,7 +2,7 @@
 
 | Attribute | Value |
 | --- | --- |
-| Category | [[categories/wearable|Wearable]] |
+| Category | [[categories/other-devices|Wearable Computer]] |
 | Operating System | Android 14.0 GMS |
 | Processor | Qualcomm Octa-core 2.4 GHz |
 | IP Rating | IP65 |
