@@ -81,6 +81,16 @@ Use progressive disclosure:
 4. Then load the verified official web source from `product-knowledge-vault/web-source.md`, if a URL exists.
 5. Read PDFs only when explicitly requested, when source markdown is missing or unclear, or during sync/audit work.
 
+### Official Web Verification Requirements
+
+For tender/bidding, spreadsheet filling, product selection, specification comparison, or any task requiring bid-grade accuracy:
+
+- Always read `product-knowledge-vault/web-source.md` for every product in scope.
+- If a verified official UROVO URL exists for a product in scope, you MUST open that official web page and verify key specs against it unless no Internet connection.
+- If network access is unavailable, blocked, or the official page cannot be opened, explicitly state that official web verification was not completed.
+- Do not treat the local vault or extracted markdown as a substitute for official web verification when the task requires current or bid-grade accuracy.
+- If official web data conflicts with local markdown/vault data, surface the discrepancy and use the conflict confidence order below.
+
 For factual conflicts, use this confidence order:
 
 1. Verified official UROVO web page
@@ -131,6 +141,7 @@ For bid and tender questions:
 
 - Extract the exact specifications from `spec/` pages for the requested product
 - Verify hard specs against original source markdown when the tender requires exact wording
+- Always read `web-source.md`; if verified official URLs exist, open the official web pages and verify key specs
 - Read PDFs only if the source markdown is missing/ambiguous or the user explicitly requests PDF verification
 - If the official web page conflicts with original markdown or vault data, flag the conflict and use the conflict confidence order
 - Present specs in standard tender format tables
@@ -179,7 +190,7 @@ When the user wants to reference original materials:
    Read `index.md` to understand portfolio context → narrow with category/comparison/matrix/feature pages → load only relevant product PB/SPEC pages.
 2. **Be precise with specifications** — quote exact values from the spec pages.
    Never approximate CPU speeds, battery capacities, IP ratings, or wireless specs.
-3. **Use progressive disclosure** — after locating the product in the vault, load the product's original PB/SPEC markdown and verified official web page as needed; do not read PDFs by default.
+3. **Use progressive disclosure** — after locating the product in the vault, load the product's original PB/SPEC markdown; for tender, spreadsheet filling, product selection, and spec comparison tasks, open verified official web pages when URLs exist. Do not read PDFs by default.
 4. **Respect source ordering** — factual conflict confidence: official web > original markdown > vault; non-conflicting adoption: vault > original markdown > official web.
 5. **No unsupported facts** — if a claim has no reference in the loaded sources, omit it.
 6. **Surface conflicts** — if web and local sources disagree, say so clearly instead of choosing silently.
